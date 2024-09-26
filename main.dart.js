@@ -60286,7 +60286,7 @@ return A.aF(B.cB,a.c,B.j,s,s,s,s,s,this.a.d[B.b.es($.f1(),a)],s,s,s,s,s)},
 $S:357}
 A.y0.prototype={
 L(a){var s=null,r=A.ba(a,s,t.w).w.a,q=t.sm
-return A.ht(A.aF(s,A.aF(s,A.di(A.a([B.BS,A.aF(s,B.RS,B.j,s,s,s,s,s,s,s,B.Bi,s,s,s),B.BR,A.aF(s,A.ls(A.U(new A.Y(B.DC,new A.L_(r),t.nc),!0,q),B.P,B.G,!1),B.j,s,s,s,s,s,s,s,s,s,s,s),B.BT,A.aF(s,A.ls(A.U(new A.Y(B.Do,new A.L0(),t.jI),!0,q),B.P,B.G,!1),B.j,s,s,s,s,s,s,B.Bg,s,s,s,s)],t.p),B.M,B.G,B.H),B.j,B.yR,s,s,s,s,s,s,B.Bq,s,s,s),B.j,s,new A.a6(0,1/0,r.b,1/0),B.xi,s,s,s,s,s,s,s,s),s,s)}}
+return A.ht(A.aF(s,A.aF(s,A.di(A.a([B.BS,A.aF(s,B.RS,B.j,s,s,s,s,s,s,s,B.Bi,s,s,s),B.BR,A.aF(s,A.ls(A.U(new A.Y(B.DC,new A.L_(r),t.nc),!0,q),B.P,B.G,!1),B.j,s,s,s,s,s,s,s,s,s,s,s),B.BT,A.aF(s,A.ls(A.U(new A.Y(B.Do,new A.L0(),t.jI),!0,q),B.P,B.G,!1),B.j,s,s,s,s,s,s,B.Bg,s,s,s,s)],t.p),B.M,B.G,B.H),B.j,B.yR,s,s,s,s,s,s,B.Bq,s,s,s),B.j,s,new A.a6(0,1/0,r.b,1/0),B.xj,s,s,s,s,s,s,s,s),s,s)}}
 A.L_.prototype={
 $1(a){return A.h_(new A.zD(a,this.a,null),3,4,6,12)},
 $S:358}
@@ -60325,7 +60325,7 @@ break
 case 1:return A.N(q,r)}})
 return A.O($async$mV,r)},
 L(a){var s=null,r=A.ba(a,s,t.w).w
-return A.aF(s,A.aF(s,A.di(A.a([new A.ke(B.wX,s,s,A.aF(s,B.RQ,B.j,s,s,s,s,s,s,B.Bp,s,s,s,s),s),A.ht(A.aF(s,A.ls(A.U(new A.Y(B.Dp,new A.Mu(this),t.g9),!0,t.sm),B.M,B.c9,!0),B.j,s,B.xg,s,s,s,s,s,s,s,s,s),s,s)],t.p),B.M,B.c9,B.H),B.j,s,new A.a6(0,1/0,r.a.b,1/0),s,s,s,s,s,B.ko,s,s,s),B.j,s,s,B.xk,s,s,s,s,s,s,s,s)}}
+return A.aF(s,A.aF(s,A.di(A.a([new A.ke(B.wX,s,s,A.aF(s,B.RQ,B.j,s,s,s,s,s,s,B.Bp,s,s,s,s),s),A.ht(A.aF(s,A.ls(A.U(new A.Y(B.Dp,new A.Mu(this),t.g9),!0,t.sm),B.M,B.c9,!0),B.j,s,B.xg,s,s,s,s,s,s,s,s,s),s,s)],t.p),B.M,B.c9,B.H),B.j,s,new A.a6(0,1/0,r.a.b,1/0),s,s,s,s,s,B.ko,s,s,s),B.j,s,s,B.xh,s,s,s,s,s,s,s,s)}}
 A.Mu.prototype={
 $1(a){var s=null,r=a.f
 return A.h_(new A.eO(B.aC,A.te(B.ac,!1,A.di(A.a([new A.eO(B.e9,new A.zE(a.b,50,B.i,s),s),new A.eO(B.e9,A.cR(a.a,s,A.dt(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,B.W,s,s,!0,s,s,s,s,s,s,s,s)),s)],t.p),B.M,B.c9,B.H),B.j,B.cF,0,10,!0,r,s,4,s,8,r,15,s,s,new A.Mt(this.a,a),B.aC,B.vg,s,s),s),3,6,6,12)},
@@ -60335,13 +60335,13 @@ $0(){this.a.mV(this.b.c)},
 $S:0}
 A.Aa.prototype={
 L(a){var s=null,r=A.ba(a,s,t.w).w.a.b,q=t.p
-return A.aF(s,A.ht(A.aF(s,A.di(A.a([A.ls(A.a([A.h_(A.aF(B.ao,B.yG,B.j,s,s,s,s,s,s,s,s,s,s,s),6,6,12,12),A.h_(A.aF(B.cB,A.di(A.a([A.cR(B.d.a2n("hello",70," "),!1,B.Qf),B.RO,B.RM],q),B.M,B.c9,B.H),B.j,s,s,s,s,s,s,s,s,s,s,s),6,6,12,12)],t.pj),B.M,B.G,!1)],q),B.M,B.c9,B.H),B.j,s,new A.a6(0,1200,r,1/0),s,s,s,s,s,B.Bo,s,s,s),s,s),B.j,s,s,B.xj,s,r,s,s,s,s,s,s)}}
+return A.aF(s,A.ht(A.aF(s,A.di(A.a([A.ls(A.a([A.h_(A.aF(B.ao,B.yG,B.j,s,s,s,s,s,s,s,s,s,s,s),6,6,12,12),A.h_(A.aF(B.cB,A.di(A.a([A.cR(B.d.a2n("hello",70," "),!1,B.Qf),B.RO,B.RM],q),B.M,B.c9,B.H),B.j,s,s,s,s,s,s,s,s,s,s,s),6,6,12,12)],t.pj),B.M,B.G,!1)],q),B.M,B.c9,B.H),B.j,s,new A.a6(0,1200,r,1/0),s,s,s,s,s,B.Bo,s,s,s),s,s),B.j,s,s,B.xk,s,r,s,s,s,s,s,s)}}
 A.ub.prototype={
 ae(){return new A.wB(B.b.gJ(B.kS))}}
 A.wB.prototype={
 WZ(a){this.aj(new A.a32(this,a))},
 L(a){var s=null,r=A.ba(a,s,t.w).w.a,q=r.a/38
-return A.aF(s,A.pX(A.aF(B.cB,A.ls(A.a([A.h_(new A.D6(this.gWY(),this.d,s),2,s,12,12),A.h_(new A.D5(this.d,s),8,s,12,12)],t.pj),B.P,B.G,!1),B.j,B.w,s,s,s,s,s,new A.aC(q,q,q,q),B.ko,s,s,s),s,B.bi,!0,B.PS,s,s,B.as),B.j,s,new A.a6(0,1/0,r.b,1/0),B.xh,s,s,s,s,s,s,s,s)}}
+return A.aF(s,A.pX(A.aF(B.cB,A.ls(A.a([A.h_(new A.D6(this.gWY(),this.d,s),2,s,12,12),A.h_(new A.D5(this.d,s),8,s,12,12)],t.pj),B.P,B.G,!1),B.j,B.w,s,s,s,s,s,new A.aC(q,q,q,q),B.ko,s,s,s),s,B.bi,!0,B.PS,s,s,B.as),B.j,s,new A.a6(0,1/0,r.b,1/0),B.xi,s,s,s,s,s,s,s,s)}}
 A.a32.prototype={
 $0(){this.a.d=this.b},
 $S:0}
@@ -62984,22 +62984,22 @@ B.cF=new A.a6(88,1/0,36,1/0)
 B.xf=new A.a6(50,1/0,50,1/0)
 B.xg=new A.a6(0,900,0,1/0)
 B.jj=new A.a6(1/0,1/0,1/0,1/0)
-B.Gm=new A.fh("images/3showcase.webp")
+B.Gk=new A.fh("assets/images/6contact.webp")
 B.cG=new A.mw(2,"cover")
 B.b8=new A.n5(3,"noRepeat")
 B.bv=new A.zG(2,"medium")
-B.AL=new A.fF(B.Gm,null,B.cG,1)
+B.AL=new A.fF(B.Gk,null,B.cG,1)
 B.aa=new A.yt(0,"rectangle")
 B.xh=new A.ch(null,B.AL,null,null,null,null,B.aa)
-B.Gk=new A.fh("images/2about.webp")
-B.AN=new A.fF(B.Gk,null,B.cG,1)
-B.xi=new A.ch(null,B.AN,null,null,null,null,B.aa)
+B.Gl=new A.fh("assets/images/3showcase.webp")
+B.AO=new A.fF(B.Gl,null,B.cG,1)
+B.xi=new A.ch(null,B.AO,null,null,null,null,B.aa)
+B.Gm=new A.fh("assets/images/2about.webp")
+B.AM=new A.fF(B.Gm,null,B.cG,1)
+B.xj=new A.ch(null,B.AM,null,null,null,null,B.aa)
 B.Gj=new A.fh("assets/images/1home.webp")
-B.AO=new A.fF(B.Gj,null,B.cG,1)
-B.xj=new A.ch(null,B.AO,null,null,null,null,B.aa)
-B.Gl=new A.fh("images/6contact.webp")
-B.AM=new A.fF(B.Gl,null,B.cG,1)
-B.xk=new A.ch(null,B.AM,null,null,null,null,B.aa)
+B.AN=new A.fF(B.Gj,null,B.cG,1)
+B.xk=new A.ch(null,B.AN,null,null,null,null,B.aa)
 B.xl=new A.mw(3,"fitWidth")
 B.xm=new A.mw(4,"fitHeight")
 B.xn=new A.mw(6,"scaleDown")
@@ -63345,9 +63345,9 @@ B.hs=A.a(s([B.H6,B.Hs,B.IB,B.H0,B.Jz,B.Im,B.JH,B.qh,B.qq,B.q6,B.q3,B.q5,B.qo,B.q
 B.U2=new A.dx(B.hs,B.hq,B.hs)
 B.Ua=new A.dx(B.et,B.hs,B.et)
 B.fH=new A.GW()
-B.Dn=A.a(s([B.Ui,B.U3,B.Ud,B.U2,B.Ua,B.fH]),t.uv)
+B.Dm=A.a(s([B.Ui,B.U3,B.Ud,B.U2,B.Ua,B.fH]),t.uv)
 B.E_=A.a(s([1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]),t.n)
-B.Ue=new A.oH(B.Dn)
+B.Ue=new A.oH(B.Dm)
 B.H9=new A.e(6,36)
 B.J3=new A.e(5.755802622931704,35.48132577125743)
 B.HL=new A.e(5.010307637171476,33.62392385238556)
@@ -64067,12 +64067,11 @@ B.hV=new A.ed(6,"scrollLockModifier")
 B.hW=new A.ed(7,"functionModifier")
 B.pZ=new A.ed(8,"symbolModifier")
 B.kR=A.a(s([B.cb,B.cc,B.cd,B.ce,B.hT,B.hU,B.hV,B.hW,B.pZ]),A.a0("u<ed>"))
-B.ev=A.a(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 B.d6=A.a(s([]),t.yh)
-B.KJ=new A.eQ("Python On Pails","Python On Pails is an OpenSource lightweight web development framework that is designed to speed up development process.","2018 - Current",null,"https://github.com/tg21/python-on-pails","images/others/pyop.webp")
-B.KP=new A.eQ("WiBuster","WiBuster is an opesource website enumerator made with python3. It can enumerate even those websites that respond with code 200 even when resource is not present","2018 - Current",null,"https://github.com/tg21/wibuster","images/others/wibuster.webp")
-B.Dh=A.a(s([B.KJ,B.KP]),t.D6)
-B.N7=new A.dS("Python",'"Python is one of my favourite languages. It is my go to language to solve any problem with scriptable solution. Apart form using it to script almost every small problem, I have worked on few of my personal python projects that are a bit larger in scale,\nProfessionally I have used python for automating tasks of operations teams at Tech Mahindra.',B.d6,B.Dh)
+B.KP=new A.eQ("Python On Pails","Python On Pails is an OpenSource lightweight web development framework that is designed to speed up development process.","2018 - Current",null,"https://github.com/tg21/python-on-pails","assets/images/others/pyop.webp")
+B.KJ=new A.eQ("WiBuster","WiBuster is an opesource website enumerator made with python3. It can enumerate even those websites that respond with code 200 even when resource is not present","2018 - Current",null,"https://github.com/tg21/wibuster","assets/images/others/wibuster.webp")
+B.Dn=A.a(s([B.KP,B.KJ]),t.D6)
+B.N7=new A.dS("Python",'"Python is one of my favourite languages. It is my go to language to solve any problem with scriptable solution. Apart form using it to script almost every small problem, I have worked on few of my personal python projects that are a bit larger in scale,\nProfessionally I have used python for automating tasks of operations teams at Tech Mahindra.',B.d6,B.Dn)
 B.xt=new A.mA()
 B.Df=A.a(s([B.xt]),t.yh)
 B.KL=new A.eQ("The Last Dino Run","An android game based on Chrome's famous offline game. Made with flutter from scratch without using any game engines like flame or unity.\nIt is available on google play store.","Dec 20 - April 21","https://play.google.com/store/apps/details?id=com.appturtles.the_last_dino",null,"https://appturtles.com/images/last_dino_square.webp")
@@ -64090,6 +64089,7 @@ B.kP=A.a(s([]),t.D6)
 B.N9=new A.dS("Angular & C#",u.f,B.d6,B.kP)
 B.Na=new A.dS("C++",u.f,B.d6,B.kP)
 B.kS=A.a(s([B.N7,B.Nb,B.N8,B.Nc,B.N9,B.Na]),A.a0("u<dS>"))
+B.ev=A.a(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 B.bf=new A.db(1,"fuchsia")
 B.bg=new A.db(3,"linux")
 B.bh=new A.db(5,"windows")
@@ -64129,19 +64129,19 @@ B.FD=new A.AL(0,"min")
 B.H=new A.AL(1,"max")
 B.kZ=new A.c(42)
 B.pF=new A.c(8589935146)
-B.Di=A.a(s([B.kZ,null,null,B.pF]),t.L)
+B.Dh=A.a(s([B.kZ,null,null,B.pF]),t.L)
 B.pr=new A.c(43)
 B.pG=new A.c(8589935147)
-B.Dj=A.a(s([B.pr,null,null,B.pG]),t.L)
+B.Di=A.a(s([B.pr,null,null,B.pG]),t.L)
 B.ps=new A.c(45)
 B.pH=new A.c(8589935149)
-B.Dk=A.a(s([B.ps,null,null,B.pH]),t.L)
+B.Dj=A.a(s([B.ps,null,null,B.pH]),t.L)
 B.pt=new A.c(46)
 B.bH=new A.c(8589935150)
-B.Dl=A.a(s([B.pt,null,null,B.bH]),t.L)
+B.Dk=A.a(s([B.pt,null,null,B.bH]),t.L)
 B.pu=new A.c(47)
 B.pI=new A.c(8589935151)
-B.Dm=A.a(s([B.pu,null,null,B.pI]),t.L)
+B.Dl=A.a(s([B.pu,null,null,B.pI]),t.L)
 B.pv=new A.c(48)
 B.hL=new A.c(8589935152)
 B.DF=A.a(s([B.pv,null,null,B.hL]),t.L)
@@ -64202,7 +64202,7 @@ B.D7=A.a(s([B.da,null,null,B.dh]),t.L)
 B.db=new A.c(4294968072)
 B.Cw=A.a(s([B.db,null,null,B.dj]),t.L)
 B.E5=A.a(s([B.c8,B.c8,B.dd,null]),t.L)
-B.FE=new A.bz(["*",B.Di,"+",B.Dj,"-",B.Dk,".",B.Dl,"/",B.Dm,"0",B.DF,"1",B.DG,"2",B.DH,"3",B.DI,"4",B.DJ,"5",B.DK,"6",B.DL,"7",B.DM,"8",B.DA,"9",B.DB,"Alt",B.E2,"AltGraph",B.DE,"ArrowDown",B.D2,"ArrowLeft",B.D3,"ArrowRight",B.D4,"ArrowUp",B.CT,"Clear",B.Db,"Control",B.E3,"Delete",B.D9,"End",B.D5,"Enter",B.D1,"Home",B.D6,"Insert",B.Dc,"Meta",B.E4,"PageDown",B.D7,"PageUp",B.Cw,"Shift",B.E5],A.a0("bz<y,K<c?>>"))
+B.FE=new A.bz(["*",B.Dh,"+",B.Di,"-",B.Dj,".",B.Dk,"/",B.Dl,"0",B.DF,"1",B.DG,"2",B.DH,"3",B.DI,"4",B.DJ,"5",B.DK,"6",B.DL,"7",B.DM,"8",B.DA,"9",B.DB,"Alt",B.E2,"AltGraph",B.DE,"ArrowDown",B.D2,"ArrowLeft",B.D3,"ArrowRight",B.D4,"ArrowUp",B.CT,"Clear",B.Db,"Control",B.E3,"Delete",B.D9,"End",B.D5,"Enter",B.D1,"Home",B.D6,"Insert",B.Dc,"Meta",B.E4,"PageDown",B.D7,"PageUp",B.Cw,"Shift",B.E5],A.a0("bz<y,K<c?>>"))
 B.CK=A.a(s([42,null,null,8589935146]),t.Z)
 B.CL=A.a(s([43,null,null,8589935147]),t.Z)
 B.CN=A.a(s([45,null,null,8589935149]),t.Z)
