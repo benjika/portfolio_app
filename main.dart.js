@@ -60286,7 +60286,7 @@ return A.aF(B.cB,a.c,B.j,s,s,s,s,s,this.a.d[B.b.es($.f1(),a)],s,s,s,s,s)},
 $S:357}
 A.y0.prototype={
 L(a){var s=null,r=A.ba(a,s,t.w).w.a,q=t.sm
-return A.ht(A.aF(s,A.aF(s,A.di(A.a([B.BS,A.aF(s,B.RS,B.j,s,s,s,s,s,s,s,B.Bi,s,s,s),B.BR,A.aF(s,A.ls(A.U(new A.Y(B.DC,new A.L_(r),t.nc),!0,q),B.P,B.G,!1),B.j,s,s,s,s,s,s,s,s,s,s,s),B.BT,A.aF(s,A.ls(A.U(new A.Y(B.Do,new A.L0(),t.jI),!0,q),B.P,B.G,!1),B.j,s,s,s,s,s,s,B.Bg,s,s,s,s)],t.p),B.M,B.G,B.H),B.j,B.yR,s,s,s,s,s,s,B.Bq,s,s,s),B.j,s,new A.a6(0,1/0,r.b,1/0),B.xj,s,s,s,s,s,s,s,s),s,s)}}
+return A.ht(A.aF(s,A.aF(s,A.di(A.a([B.BS,A.aF(s,B.RS,B.j,s,s,s,s,s,s,s,B.Bi,s,s,s),B.BR,A.aF(s,A.ls(A.U(new A.Y(B.DC,new A.L_(r),t.nc),!0,q),B.P,B.G,!1),B.j,s,s,s,s,s,s,s,s,s,s,s),B.BT,A.aF(s,A.ls(A.U(new A.Y(B.Do,new A.L0(),t.jI),!0,q),B.P,B.G,!1),B.j,s,s,s,s,s,s,B.Bg,s,s,s,s)],t.p),B.M,B.G,B.H),B.j,B.yR,s,s,s,s,s,s,B.Bq,s,s,s),B.j,s,new A.a6(0,1/0,r.b,1/0),B.xi,s,s,s,s,s,s,s,s),s,s)}}
 A.L_.prototype={
 $1(a){return A.h_(new A.zD(a,this.a,null),3,4,6,12)},
 $S:358}
@@ -60335,7 +60335,7 @@ $0(){this.a.mV(this.b.c)},
 $S:0}
 A.Aa.prototype={
 L(a){var s=null,r=A.ba(a,s,t.w).w.a.b,q=t.p
-return A.aF(s,A.ht(A.aF(s,A.di(A.a([A.ls(A.a([A.h_(A.aF(B.ao,B.yG,B.j,s,s,s,s,s,s,s,s,s,s,s),6,6,12,12),A.h_(A.aF(B.cB,A.di(A.a([A.cR(B.d.a2n("hello",70," "),!1,B.Qf),B.RO,B.RM],q),B.M,B.c9,B.H),B.j,s,s,s,s,s,s,s,s,s,s,s),6,6,12,12)],t.pj),B.M,B.G,!1)],q),B.M,B.c9,B.H),B.j,s,new A.a6(0,1200,r,1/0),s,s,s,s,s,B.Bo,s,s,s),s,s),B.j,s,s,B.xi,s,r,s,s,s,s,s,s)}}
+return A.aF(s,A.ht(A.aF(s,A.di(A.a([A.ls(A.a([A.h_(A.aF(B.ao,B.yG,B.j,s,s,s,s,s,s,s,s,s,s,s),6,6,12,12),A.h_(A.aF(B.cB,A.di(A.a([A.cR(B.d.a2n("hello",70," "),!1,B.Qf),B.RO,B.RM],q),B.M,B.c9,B.H),B.j,s,s,s,s,s,s,s,s,s,s,s),6,6,12,12)],t.pj),B.M,B.G,!1)],q),B.M,B.c9,B.H),B.j,s,new A.a6(0,1200,r,1/0),s,s,s,s,s,B.Bo,s,s,s),s,s),B.j,s,s,B.xj,s,r,s,s,s,s,s,s)}}
 A.ub.prototype={
 ae(){return new A.wB(B.b.gJ(B.kS))}}
 A.wB.prototype={
@@ -62984,22 +62984,22 @@ B.cF=new A.a6(88,1/0,36,1/0)
 B.xf=new A.a6(50,1/0,50,1/0)
 B.xg=new A.a6(0,900,0,1/0)
 B.jj=new A.a6(1/0,1/0,1/0,1/0)
-B.Gl=new A.fh("images/3showcase.webp")
+B.Gm=new A.fh("images/3showcase.webp")
 B.cG=new A.mw(2,"cover")
 B.b8=new A.n5(3,"noRepeat")
 B.bv=new A.zG(2,"medium")
-B.AL=new A.fF(B.Gl,null,B.cG,1)
+B.AL=new A.fF(B.Gm,null,B.cG,1)
 B.aa=new A.yt(0,"rectangle")
 B.xh=new A.ch(null,B.AL,null,null,null,null,B.aa)
-B.Gm=new A.fh("images/1home.webp")
-B.AM=new A.fF(B.Gm,null,B.cG,1)
-B.xi=new A.ch(null,B.AM,null,null,null,null,B.aa)
-B.Gj=new A.fh("images/2about.webp")
+B.Gk=new A.fh("images/2about.webp")
+B.AN=new A.fF(B.Gk,null,B.cG,1)
+B.xi=new A.ch(null,B.AN,null,null,null,null,B.aa)
+B.Gj=new A.fh("assets/images/1home.webp")
 B.AO=new A.fF(B.Gj,null,B.cG,1)
 B.xj=new A.ch(null,B.AO,null,null,null,null,B.aa)
-B.Gk=new A.fh("images/6contact.webp")
-B.AN=new A.fF(B.Gk,null,B.cG,1)
-B.xk=new A.ch(null,B.AN,null,null,null,null,B.aa)
+B.Gl=new A.fh("images/6contact.webp")
+B.AM=new A.fF(B.Gl,null,B.cG,1)
+B.xk=new A.ch(null,B.AM,null,null,null,null,B.aa)
 B.xl=new A.mw(3,"fitWidth")
 B.xm=new A.mw(4,"fitHeight")
 B.xn=new A.mw(6,"scaleDown")
